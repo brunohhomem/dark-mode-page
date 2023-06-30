@@ -1,2 +1,3 @@
-# dark-mode-page
-Página simples, teste de darkmode
+# Página simples, teste de darkmode
+
+- Aprendendo alguns truques com CSS e JS
